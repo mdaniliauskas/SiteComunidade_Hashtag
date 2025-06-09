@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="github-copilot">
+    <option name="isEnabled" value="true" />
+    <option name="isPrimaryAI" value="true" />
+    <option name="showCompletions" value="true" />
+    <option name="showInlayHints" value="true" />
+    <option name="showInlineCompletions" value="true" />
+    <option name="completionMatchStrategy" value="SEMANTIC" />
+    <option name="enableTabCompletions" value="true" />
+    <option name="prioritizeOverOtherAI" value="true" />
+  </component>
+</project>

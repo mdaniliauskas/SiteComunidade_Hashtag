@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="aiAssistant">
+    <option name="isEnabled" value="false" />
+    <option name="isCompletionsEnabled" value="false" />
+    <option name="isInlineCompletionsEnabled" value="false" />
+    <option name="isCodeCompletionsEnabled" value="false" />
+    <option name="isDocCompletionsEnabled" value="false" />
+    <option name="isTestCompletionsEnabled" value="false" />
+    <option name="isCommitMessageCompletionsEnabled" value="false" />
+  </component>
+</project>
