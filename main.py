@@ -2,6 +2,8 @@ from flask import Flask, render_template
 from forms import FormLogin, FormCriarConta
 app = Flask(__name__)
 
+app.config['SECRET_KEY'] = '1234' # Teste, depois configurar corretamente
+
 lista_usuarios = [
     "Ana Souza",
     "Carlos Lima",
